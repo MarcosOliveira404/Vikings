@@ -3,7 +3,7 @@ import React from 'react';
 import './css/App.css';
 import './css/img.css';
 
-{/* Importações de Paginas*/}
+// Paginas
 import Header from './components/Header';
 import Home from './pages/Home';
 import History from './pages/History';
