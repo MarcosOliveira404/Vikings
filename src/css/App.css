@@ -1,0 +1,116 @@
+
+
+:root{
+  --colorBase: #03031f;
+  --color02: #7497b1;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.bodyApp{
+  padding-left: 200px;
+}
+
+
+.header{
+  display: flex;
+}
+.header > h1{
+  margin-top: 0;
+}
+
+.contenNav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 200px; /* Ajuste a largura conforme necessário */
+  height: 100%;
+  background-color: var(--colorBase);
+  color: #fff;
+  padding: 20px;
+  box-sizing: border-box;
+  overflow-y: auto;
+  z-index: 1000;
+}
+
+
+nav a {
+  color: white;
+  margin: 0 1rem;
+  text-decoration: none;
+  display: flex;
+  padding: 5px;
+}
+
+nav a:hover{
+  color: var(--color02);
+  text-decoration: underline;
+}
+
+section {
+  padding: 2rem;
+  max-width: 600px;
+  display: block;
+  margin: 80px auto 0px auto;
+}
+
+section h2 {
+  border-bottom: 2px solid var(--colorBase);
+  padding-bottom: 0.5rem;
+}
+
+section > p {
+  text-indent: 20px;
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+  text-align: justify;
+}
+
+.subtext{
+  width: 80%;
+}
+
+span{
+  font-weight: bolder;
+}
+
+
+
+
+
+
+
+
+
+
+/* Footer.css */
+
+.footer {
+  background-color: var(--colorBase);
+  padding: 20px 0;
+  text-align: center;
+  position: relative;
+  width: 100%;
+  bottom: 0;
+}
+.footer a{
+  color: #fff;
+  text-decoration: none;
+}
+
+.footer a:hover{
+  color: var(--color02);
+  text-decoration: underline;
+}
+
+.containerFooter {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
