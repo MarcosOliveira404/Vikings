@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MarcosOliveira404/Vikings/static/css/main.45e7f0c8.css",
-    "main.js": "/MarcosOliveira404/Vikings/static/js/main.052b14f6.js",
-    "static/js/453.ef57f7b3.chunk.js": "/MarcosOliveira404/Vikings/static/js/453.ef57f7b3.chunk.js",
+    "main.js": "/MarcosOliveira404/Vikings/static/js/main.4706c4db.js",
+    "static/js/453.836663a9.chunk.js": "/MarcosOliveira404/Vikings/static/js/453.836663a9.chunk.js",
     "static/media/FotoTecnologia.jpeg": "/MarcosOliveira404/Vikings/static/media/FotoTecnologia.6bc240c7fa8e730568ce.jpeg",
     "static/media/FotoReligiao.jpg": "/MarcosOliveira404/Vikings/static/media/FotoReligiao.e64f07e0eac458ef091a.jpg",
     "static/media/FotoHistory.jpg": "/MarcosOliveira404/Vikings/static/media/FotoHistory.f7159cc0c92f5b5f458c.jpg",
@@ -10,11 +10,11 @@
     "static/media/FotoHome.jpg": "/MarcosOliveira404/Vikings/static/media/FotoHome.8e3dba55fd3cb14fe98c.jpg",
     "index.html": "/MarcosOliveira404/Vikings/index.html",
     "main.45e7f0c8.css.map": "/MarcosOliveira404/Vikings/static/css/main.45e7f0c8.css.map",
-    "main.052b14f6.js.map": "/MarcosOliveira404/Vikings/static/js/main.052b14f6.js.map",
-    "453.ef57f7b3.chunk.js.map": "/MarcosOliveira404/Vikings/static/js/453.ef57f7b3.chunk.js.map"
+    "main.4706c4db.js.map": "/MarcosOliveira404/Vikings/static/js/main.4706c4db.js.map",
+    "453.836663a9.chunk.js.map": "/MarcosOliveira404/Vikings/static/js/453.836663a9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.45e7f0c8.css",
-    "static/js/main.052b14f6.js"
+    "static/js/main.4706c4db.js"
   ]
 }
