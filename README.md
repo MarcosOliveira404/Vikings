@@ -1,75 +1,73 @@
+# ⚔️ Vikings Website
 
-# Vikings
-Site informativo criado em React JS, onde contará um pouco sobre os vikings, suas origens, costumes e crenças.
+## Descrição
 
+Este é um website informativo sobre os Vikings, explorando diferentes aspectos da cultura, história, religião e tecnologia desse grupo nórdico. O site é estruturado em várias seções, cada uma focada em um aspecto específico dos Vikings.
 
-# Getting Started with Create React App
+![vikings](/src/assets/vikings.jpeg)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Funcionalidades
 
-## Available Scripts
+* **Home**: Uma introdução à presença dos Vikings na cultura popular moderna.
 
-In the project directory, you can run:
+* **História**: Detalha as origens dos Vikings, suas explorações e conquistas.
+* **Cultura**: Explora a arte, sociedade e costumes dos Vikings.
+* **Religião e Mitologia**: Descreve as principais crenças, deuses e mitos nórdicos.
+* **Tecnologia**: Foca nas inovações tecnológicas e artísticas dos Vikings, como os longships e as sagas islandesas.
 
-### `npm start`
+## Estrutura do Projeto
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* **components**: Contém os componentes principais da interface, como Header e Footer.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* **pages**: Contém as páginas que compõem o conteúdo principal do site, como Home, History, Culture, Religiao, e Tecnologia.
+* **assets**: Imagens e recursos visuais utilizados nas páginas.
+* **css**: Arquivos CSS para estilização do site.
+* **App.js**: Arquivo principal que integra todos os componentes e páginas.
+* **index.js**: Ponto de entrada do React que renderiza o aplicativo na DOM.
 
-### `npm test`
+## Tecnologias Utilizadas
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* **React.js**: Biblioteca JavaScript para construção de interfaces de usuário.
 
-### `npm run build`
+* **HTML/CSS**: Estrutura e estilização das páginas web.
+* **JavaScript**: Lógica e interatividade do site.
+* **GitHub Pages**: Para hospedagem do site.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Como Executar o Projeto
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Clone o repositório
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```sh
+git clone https://github.com/MarcosOliveira404/Vikings
+```
 
-### `npm run eject`
+### Navegue até o diretório do projeto
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```sh
+cd Vikings
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Instale as dependências
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```sh
+npm install
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Execute o projeto localmente
 
-## Learn More
+```sh
+npm start
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Acesse o site em seu navegador
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```sh
+http://localhost:3000
+```
 
-### Code Splitting
+## Licença
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Autor
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Marcos Oliveira
